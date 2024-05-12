@@ -1,0 +1,9 @@
+Problem statements:
+1.	Calculate mean speed for trips.
+2.	Display no of trip, where tip offered is more than 50 bucks.
+3.	Display no of drops happened at JFK airport. Where drop location code for JFK airport is 2
+4.	Check longest trip in terms of distance or time taken
+5.	Give top 5 most expensive rides and top 5 lowest cost rides.
+6.	Give most expensive trip.
+7.	Give me longest and shortest trip by time.
+8.	Give total no of trips happened in month of March.
